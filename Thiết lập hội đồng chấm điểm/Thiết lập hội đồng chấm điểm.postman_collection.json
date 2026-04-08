@@ -1,0 +1,62 @@
+{
+	"info": {
+		"_postman_id": "c850602d-d1b8-49fa-b55e-a5fa8647da6b",
+		"name": "Thiết lập hội đồng chấm điểm",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33970295"
+	},
+	"item": [
+		{
+			"name": "TC_COM",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"   const httpStatusCode = pm.iterationData.get('httpStatusCode');",
+							"   pm.test('Check response code', function(){",
+							"       pm.response.to.have.status(httpStatusCode);",
+							"   });"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "{{token}}",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"name\": \"{{name}}\",\n  \"description\": \"{{description}}\",\n  \"defenseAddress\": \"{{defenseAddress}}\",\n  \"status\": \"{{status}}\",\n  \"facultyId\": {{facultyId}},\n  \"memberIds\": [\n    {{memberIds1}},\n    {{memberIds2}},\n    {{memberIds3}}\n  ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{BASE_URL}}/api/councils",
+					"host": [
+						"{{BASE_URL}}"
+					],
+					"path": [
+						"api",
+						"councils"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
