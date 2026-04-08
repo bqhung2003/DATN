@@ -21,7 +21,7 @@ JSON_PATH="$CURRENT_DIR/${MODULE_NAME}/reports/output.json"
 # Chạy Newman (không dùng folder)
 npx newman run "$CURRENT_DIR/$MODULE_NAME/$MODULE_NAME.postman_collection.json" \
   -e "$CURRENT_DIR/workspace.postman_globals.json" \
-  --iteration-data "$CURRENT_DIR/$MODULE_NAME/TestData.json" \
+  --iteration-data "$CURRENT_DIR/$MODULE_NAME/Test Data.json" \
   --reporters cli,htmlextra,json \
   --reporter-htmlextra-export "$REPORT_PATH" \
   --reporter-json-export "$JSON_PATH" \
