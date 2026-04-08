@@ -3,7 +3,7 @@
 	"values": [
 		{
 			"key": "BASE_URL",
-			"value": "http://localhost:3003",
+			"value": "http://139.180.138.76:3003",
 			"type": "default",
 			"enabled": true
 		},
