@@ -1036,7 +1036,7 @@
         "roleInTeam1":  "Leader",
         "studentId2":  "3",
         "roleInTeam2":  "Member",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZW1haWwiOiJhZG1pbmlzdHJhdG9yQGV4YW1wbGUuY29tIiwibmFtZSI6IlF14bqjbiB0cuG7iyB2acOqbiIsImZhY3VsdHlJZCI6bnVsbCwiZGVwYXJ0bWVudElkIjpudWxsLCJtYWpvcklkIjpudWxsLCJyb2xlcyI6WyJGYWN1bHR5RGVhbiIsIkFkbWluIiwiRGVwYXJ0bWVudEhlYWQiLCJDb3VuY2lsIl0sImlhdCI6MTc3NTY1OTY1OCwiZXhwIjoxNzc1NzQ2MDU4fQ.oBjUH4VSALDwtN6r_GB0km1LNfWRReFvNVhdXtxPAZY",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZW1haWwiOiJhZG1pbmlzdHJhdG9yQGV4YW1wbGUuY29tIiwibmFtZSI6IlF14bqjbiB0cuG7iyB2acOqbiIsImZhY3VsdHlJZCI6bnVsbCwiZGVwYXJ0bWVudElkIjpudWxsLCJtYWpvcklkIjpudWxsLCJyb2xlcyI6WyJGYWN1bHR5RGVhbiIsIkFkbWluIiwiRGVwYXJ0bWVudEhlYWQiLCJDb3VuY2lsIl0sImlhdCI6MTc3NTc0MDU5MSwiZXhwIjoxNzc1ODI2OTkxfQ.TcOoEVY9gjRjd1TGb6Fd50WZ8SIEiOpNGZUlcr02cns",
         "httpStatusCode":  403
     },
     {
