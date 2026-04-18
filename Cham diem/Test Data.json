@@ -6,7 +6,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_01",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -16,7 +16,7 @@
         "score":  "10",
         "comment":  "",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -26,7 +26,7 @@
         "score":  "10",
         "comment":  "",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -36,7 +36,7 @@
         "score":  "0",
         "comment":  "Test chấm điểm TC_GRADE_04",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -46,7 +46,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_05",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -56,7 +56,7 @@
         "score":  "7.25",
         "comment":  "Test chấm điểm TC_GRADE_06",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -66,7 +66,7 @@
         "score":  "-1",
         "comment":  "Test chấm điểm TC_GRADE_07",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -76,7 +76,7 @@
         "score":  "11",
         "comment":  "Test chấm điểm TC_GRADE_08",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -86,7 +86,7 @@
         "score":  "999",
         "comment":  "Test chấm điểm TC_GRADE_09",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -96,7 +96,7 @@
         "score":  "abc",
         "comment":  "Test chấm điểm TC_GRADE_10",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -106,7 +106,7 @@
         "score":  "8.12345",
         "comment":  "Test chấm điểm TC_GRADE_11",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  201
     },
     {
@@ -116,7 +116,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_12",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  404
     },
     {
@@ -126,7 +126,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_13",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  404
     },
     {
@@ -136,7 +136,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_14",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -146,7 +146,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_15",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -156,7 +156,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_16",
         "lecturerId":  "101",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  404
     },
     {
@@ -166,7 +166,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_17",
         "lecturerId":  "4",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  403
     },
     {
@@ -176,7 +176,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_19",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -186,7 +186,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_20",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -196,7 +196,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_21",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -206,7 +206,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_22",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -216,7 +216,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_23",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -226,7 +226,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_24",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
@@ -236,7 +236,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_25",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NTU3MDUyOSwiZXhwIjoxNzc1NjU2OTI5fQ.IQbKX9K1DLnpq08vuy7tuuWanqOXfyxmL2jiBrpwuhQ",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3NjQ5NjEzMywiZXhwIjoxNzc2NTgyNTMzfQ.n3R9BW5qQcDuVJP-bB71E2yjwPhUY4RxA8mVrSGS_E4",
         "httpStatusCode":  400
     },
     {
