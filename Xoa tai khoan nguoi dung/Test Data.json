@@ -3,7 +3,7 @@
         "TC_ID": "TC_DEL_01",
         "id": "",
         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZW1haWwiOiJhZG1pbmlzdHJhdG9yQGV4YW1wbGUuY29tIiwibmFtZSI6IlF14bqjbiB0cuG7iyB2acOqbiIsImZhY3VsdHlJZCI6bnVsbCwiZGVwYXJ0bWVudElkIjpudWxsLCJtYWpvcklkIjpudWxsLCJyb2xlcyI6WyJGYWN1bHR5RGVhbiIsIkFkbWluIiwiRGVwYXJ0bWVudEhlYWQiLCJDb3VuY2lsIl0sImlhdCI6MTc3NzE4MzkwNCwiZXhwIjoxNzc3MjcwMzA0fQ.kGDkXlKsNBpaN-z9f_CngeLIgqZDxg4Xpbr2vvbHFHw",
-        "httpStatusCode": 400
+        "httpStatusCode": 404
     },
     {
         "TC_ID": "TC_DEL_02",
