@@ -316,7 +316,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_33",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNiIsImVtYWlsIjoicGhvbmduY2toMUBnbWFpbC5jb20iLCJuYW1lIjoiUGjDsm5nIE5DS0giLCJmYWN1bHR5SWQiOiIxIiwiZGVwYXJ0bWVudElkIjoiMSIsIm1ham9ySWQiOiIyIiwicm9sZXMiOlsiUmVjdG9yIl0sImlhdCI6MTc3NjU2NjM5MCwiZXhwIjoxNzc2NjUyNzkwfQ.L0NEm9nJ9-oJWBrfRZPF3viCOy_ksbpiS9vPohbbK6A",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxNiIsImVtYWlsIjoicGhvbmduY2toMUBnbWFpbC5jb20iLCJuYW1lIjoiUGjDsm5nIE5DS0giLCJmYWN1bHR5SWQiOiIxIiwiZGVwYXJ0bWVudElkIjoiMSIsIm1ham9ySWQiOiIyIiwicm9sZXMiOlsiUmVjdG9yIl0sImlhdCI6MTc3ODQzMDAxNiwiZXhwIjoxNzc4NTE2NDE2fQ.FwqsTqdrLCL-qohNaSO7x3viF3jQO-j7LYogkieE0M0",
         "httpStatusCode":  403
     }
 ]
