@@ -276,7 +276,7 @@
         "score":  "10",
         "comment":  "Test chấm điểm TC_GRADE_29",
         "lecturerId":  "11",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZW1haWwiOiJhZG1pbmlzdHJhdG9yQGV4YW1wbGUuY29tIiwibmFtZSI6IlF14bqjbiB0cuG7iyB2acOqbiIsImZhY3VsdHlJZCI6bnVsbCwiZGVwYXJ0bWVudElkIjpudWxsLCJtYWpvcklkIjpudWxsLCJyb2xlcyI6WyJGYWN1bHR5RGVhbiIsIkFkbWluIiwiRGVwYXJ0bWVudEhlYWQiLCJDb3VuY2lsIl0sImlhdCI6MTc3ODQyOTU2OSwiZXhwIjoxNzc4NTE1OTY5fQ.63IaGcqiqxTwz_JK8E-E4d59Pwq0NPKDNp2qogdjgy8",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxIiwiZW1haWwiOiJhZG1pbmlzdHJhdG9yQGV4YW1wbGUuY29tIiwibmFtZSI6IlF14bqjbiB0cuG7iyB2acOqbiIsImZhY3VsdHlJZCI6bnVsbCwiZGVwYXJ0bWVudElkIjpudWxsLCJtYWpvcklkIjpudWxsLCJyb2xlcyI6WyJGYWN1bHR5RGVhbiIsIkFkbWluIiwiRGVwYXJ0bWVudEhlYWQiLCJDb3VuY2lsIl0sImlhdCI6MTc3ODQ2NTE5MSwiZXhwIjoxNzc4NTUxNTkxfQ.943vkIyw3z08dsMBViAuZRyamFD4aCbOsBG3UDf66EY",
         "httpStatusCode":  403
     },
     {
