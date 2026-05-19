@@ -1062,7 +1062,7 @@
         "roleInTeam1":  "Leader",
         "studentId2":  "3",
         "roleInTeam2":  "Member",
-        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4IiwiZW1haWwiOiJnaWFuZ3ZpZW4zQGdtYWlsLmNvbSIsIm5hbWUiOiJHaeG6o25nIHZpw6puIDMiLCJmYWN1bHR5SWQiOiIxIiwiZGVwYXJ0bWVudElkIjoiMSIsIm1ham9ySWQiOiIyIiwicm9sZXMiOlsiTGVjdHVyZXIiXSwiaWF0IjoxNzc5MjA0ODQ3LCJleHAiOjE3NzkyOTEyNDd9.V1Oe29s9MiCp-UzjCY3s8rqAkDehdOOc487-ek21U-A",
+        "token":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMSIsImVtYWlsIjoiZ2lhbmd2aWVuNUBnbWFpbC5jb20iLCJuYW1lIjoiR2nhuqNuZyB2acOqbiA1IiwiZmFjdWx0eUlkIjoiMiIsImRlcGFydG1lbnRJZCI6IjIiLCJtYWpvcklkIjoiMyIsInJvbGVzIjpbIkxlY3R1cmVyIl0sImlhdCI6MTc3OTIwNDk1MSwiZXhwIjoxNzc5MjkxMzUxfQ._ZasnJxLGg_Pcex1jIGHWaDEmrLH0HH4nUBkbb6xFKk",
         "httpStatusCode":  403
     },
     {
